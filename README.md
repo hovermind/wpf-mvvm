@@ -1,6 +1,7 @@
 ## Prerequisites
 * [DependencyProperty](https://github.com/hovermind/wpf-ninja/blob/master/doc-md/dependency-property.md)
 * [INotifyPropertyChanged](https://github.com/hovermind/wpf-ninja/blob/master/doc-md/data-binding/INotifyPropertyChanged.md)
+* [DependencyProperty for Property Change Notification](https://github.com/hovermind/wpf-ninja/blob/master/doc-md/data-binding/change-notification-by-dp.md)
 
 ## MVVM
 * [What is MVVM](https://github.com/hovermind/wpf-mvvm/blob/master/doc-md/mvvm.md)
