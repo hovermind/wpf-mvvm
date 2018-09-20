@@ -12,3 +12,6 @@
 * [ViewModelLocator](https://github.com/hovermind/wpf-mvvm/blob/master/doc-md/viewmodel-locator.md)
 * [Ways to Set DataContext](https://github.com/hovermind/wpf-ninja/blob/master/doc-md/data-binding/data-binding-ways.md)
 * [Event Handling in MVVM App](https://github.com/hovermind/wpf-mvvm/blob/master/doc-md/event-handling-in-mvvm.md)
+
+## Prism
+* [BindableBase](https://github.com/hovermind/wpf-mvvm/blob/master/doc-md/prism-bindable-base.md)
