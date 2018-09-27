@@ -39,7 +39,8 @@ public class MyViewModel : MyBindableBase
 
 }
 ```
-**[Prism provides `BindableBase` for us](https://github.com/PrismLibrary/Prism/blob/master/Source/Prism/Mvvm/BindableBase.cs)**. Prism Bindablebase (Abstract) Class:
+## [Prism provides `BindableBase` for us](https://github.com/PrismLibrary/Prism/blob/master/Source/Prism/Mvvm/BindableBase.cs)
+Prism Bindablebase (Abstract) Class:
 ```
 namespace Prism.Mvvm
 {
