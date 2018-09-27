@@ -1,4 +1,4 @@
-## BindableBase (Prism) or BindableObject (MVVM Light)
+## BindableBase (MVVM Light => ViewModelBase )
 *Implements `INotifyPropertyChanged` to simplify ViewModel property change notification process.*
 
 **Vanilla WPF:**    
