@@ -1,5 +1,5 @@
 ## View First Approach
-The ViewModel should know nothing about the View, but that View should be aware of the ViewModel. The obvious way to attach a View and ViewModel, then, is have the View construct its ViewModel in its codebehind - something like this:
+The ViewModel should know nothing about the View, but that View should be aware of the ViewModel. The obvious way to attach a View and ViewModel, then, you have the View constructs its ViewModel in its codebehind - something like this:
 ```
 public MainWindow()
 {
@@ -8,7 +8,7 @@ public MainWindow()
 }
 ```
 
-#### In XAML
+**In XAML**
 `MainWindow.xaml`
 ```
 <Window x:Class="SampleApplication.MainWindow"
@@ -26,7 +26,7 @@ public MainWindow()
 	
 </Window>
 ```
-##### In XAML - Static Resource
+## Static Resource
 ```
 <Window x:Class="SampleApplication.MainWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
@@ -48,7 +48,7 @@ public MainWindow()
 </Window>
 ```
 
-##### In XAML - Element Tag
+## Element Tag
 ```
 <Window x:Class="SampleApplication.MainWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
