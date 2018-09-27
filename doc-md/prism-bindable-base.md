@@ -24,9 +24,9 @@ public class MyViewModel : INotifyPropertyChanged
 }
 
 ```
-In above approach, you have to write same code for every property. **So, to simplify things, you can create [Custom BindableBase](https://www.danrigby.com/2012/04/01/inotifypropertychanged-the-net-4-5-way-revisited/)**:
+In above approach, you have to write same code for every property. **So, to simplify things, you can create [Custom Base Class](https://www.danrigby.com/2012/04/01/inotifypropertychanged-the-net-4-5-way-revisited/)** to avoid tidious repeating code for every property:
 ```
-public class MyViewModel : BindableBase
+public class MyViewModel : MyBindableBase
 {
     private string _firstName;
     private string _lastName;
