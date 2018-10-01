@@ -18,4 +18,4 @@
 
 ## MVVM Light
 
-## [Prism vs MVVM Light](#)
+## [Prism vs MVVM Light](https://github.com/hovermind/wpf-mvvm/blob/master/doc-md/prism-vs-mvvm-light.md)
