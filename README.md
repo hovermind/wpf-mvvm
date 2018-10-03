@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://paypal.me/hovermind/10usd)
+
 ## Prerequisites
 * [DependencyProperty](https://github.com/hovermind/wpf-ninja/blob/master/doc-md/dependency-property.md)
 * [INotifyPropertyChanged](https://github.com/hovermind/wpf-ninja/blob/master/doc-md/data-binding/INotifyPropertyChanged.md)
